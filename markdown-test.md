@@ -1,5 +1,7 @@
 ![markdown](https://cdoco.com/images/markdown-syntax.png)
 
+> markdown语法，行末多留两空格，再回车，显示效果为换行
+
 ## 目录
 
 - [文本](#文本)

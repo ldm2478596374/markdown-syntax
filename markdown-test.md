@@ -30,11 +30,11 @@
 
 `printf()` 函数
 
---- javascript
+``` javascript
 $(document).ready(function () {
     alert('RUNOOB');
 });
----
+```
 
 [标题](链接地址)
 

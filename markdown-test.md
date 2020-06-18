@@ -1,6 +1,6 @@
 ![markdown](https://cdoco.com/images/markdown-syntax.png)
 
-> markdown语法，行末多留两空格，再回车，显示效果为换行
+> markdown语法，行末两空格再回车，显示效果为换行
 
 ## 目录
 

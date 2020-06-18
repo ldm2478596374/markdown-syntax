@@ -40,8 +40,8 @@ $(document).ready(function () {
 });
 ```
 ### 3.3 链接引用
-[标题](链接地址)
-![标题](http://static.runoob.com/images/runoob-logo.png)
+[标题](链接地址)  
+![标题](http://static.runoob.com/images/runoob-logo.png)  
 <https://www.runoob.com>
 
 ## 4. 表格
